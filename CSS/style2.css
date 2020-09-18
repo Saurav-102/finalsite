@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: radiance,Georgia,bitstream charter,serif;
+    background-image: url(https://1.bp.blogspot.com/-9GOpPFEb-YA/XmlIzOPL8dI/AAAAAAAAMTM/3njbx0695hUSzXPg5D8Q5_82SGiKsoaGgCLcBGAsYHQ/s1600/arcade-game-wallpaper-4k.jpg);
+    background-size: 1140px;
+    background-repeat: no-repeat;
+    width: 1140px;
+
+}
+
+.contact{
+    color: white;
+    margin-left: 30px;
+}
+
+.form-group{
+    color: white;
+    width: 50%;
+    margin-left: 30px;
+}
+
+.btn{
+    margin-left: 30px;
+}
+

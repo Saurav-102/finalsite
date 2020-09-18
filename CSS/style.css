@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #212529;
+    width: 1140px;
+    font-family: radiance,Georgia,bitstream charter,serif;
+    
+}
+
+.latest{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white;
+    background-color: #212529;
+}
+
+/*Css for carousel*/
+.carousel-inner{
+    width: 500px;
+    height: 100%;
+}
+
+#carouselExampleIndicators{
+    padding-bottom: 5px;
+    width: 100%;
+}
+
+.games{
+    text-align: center;
+    color: white;
+    background-color: #343a40;
+}
+
+/*Css for cards*/
+.cards{
+    padding-top: 2px;
+}
+
+.cards > .col{
+    float: none;
+    display: inline-block;
+    text-align: initial;
+}
+
+.foot{
+    color:white;
+}
+
+.creator{
+    float:right;
+}
+
+.foot_contact{
+    float: left;
+}
+
